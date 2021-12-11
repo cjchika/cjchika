@@ -13,7 +13,7 @@
 
 - 💯 Interests: **Open Source, Accessibility, UX, Human Computer Interaction, Web Animation, IoT and Blockchain Technology**.
 
-- ⚡ Fun fact: Let me think about it :).
+- ⚡ Fun fact: I used to bath outside :).
 
 ---
 
