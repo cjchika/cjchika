@@ -7,7 +7,7 @@
 
 - 🤝🏻 I’m passionate about bridging the gap between design and development and also look forward to contributing to **Open Source Projects**.
 
-- 🌎 I'm available for role related to my field.
+- 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression..
 
 - 💬 Feel free to reach out: DM [@cjchika_](https://twitter.com/cjchika_)
 
