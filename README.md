@@ -9,9 +9,9 @@
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression..
 
-- 💬 Feel free to reach out: DM [@cjchika_](https://twitter.com/cjchika_)
+- 💬 Let's discuss about that incredible idea: DM [@cjchika_](https://twitter.com/cjchika_)
 
-- 💯 Interests: **Open Source, Accessibility, UX, Human Computer Interaction, Web Animation, IoT and Blockchain Technology**.
+- 💯 Interests: **Open Source, Accessibility, UX, Blockchain Technology**.
 
 - ⚡ Fun fact: Permit me to think about it! :).
 
