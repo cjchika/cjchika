@@ -9,7 +9,7 @@
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression..
 
-- 💬 Let's discuss about that incredible idea: DM [@cjchika_](https://twitter.com/cjchika_)
+- 💬 Let's discuss about that incredible idea: Shoot a mail [chikachijioke@yahoo.com](mailto:chikachijioke@yahoo.com")
 
 - 💯 Interests: **Open Source, Accessibility, UX, Blockchain Technology**.
 
