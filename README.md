@@ -21,7 +21,6 @@
 <h3 align="left"> Let's Connect:</h3>
 <a href="https://twitter.com/cjchika_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="achieverhika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chikachijioke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@chikachijioke" height="30" width="40" /></a>
-<a href="https://dribbble.com/creativecapt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="creativecapt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
