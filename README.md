@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
-- 📒 I’m currently learning **ReactJS and Solidity** and working on side projects.
+- 📒 **React Lover** currently looking into **Solidity** and working on side projects.
 
 - 🤝🏻 I’m passionate about bridging the gap between design and development and also look forward to contributing to **Open Source Projects**.
 
