@@ -1,11 +1,11 @@
-<h1 align="center">Hailing 👋, I am Chijioke Chika</h1>
+<h1 align="center">Hailings 👋, I am Chijioke Chika</h1>
 <h3 align="center">Frontend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
 - 📒 **React Enthusiast**, learning **daily** and working on side projects.
 
-- 🤝🏻 I’m passionate about bridging the gap between design and development and also look forward to contributing to **Open Source Projects**.
+- 🤝🏻 I’m passionate about bridging the gap between design and development and also looking forward to contributing to **Open Source Projects**.
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression..
 
