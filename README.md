@@ -13,7 +13,7 @@
 
 - 💯 Interests: **Open Source, Accessibility, UX, Blockchain Technology**.
 
-- ⚡ Fun fact: Permit me to think about it! :).
+- ⚡ Fun fact: Figure it! :).
 
 ---
 
