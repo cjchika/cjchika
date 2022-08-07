@@ -10,7 +10,7 @@
 
 - 💬 Let's talk [8pluscreative@gmail.com](mailto:8pluscreative@gmail.com")
 
-- 💯 Interests: **Open Source, Accessibility, UX, Blockchain Technology, Linux and Software Engineering.**
+- 💯 Interests: **Open Source, Accessibility, Blockchain Technology, Linux and Software Engineering.**
 
 - ⚡ Fun fact: Let's Figure it!
 
