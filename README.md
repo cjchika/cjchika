@@ -6,7 +6,7 @@
 
 - 🤝🏻 Passionate about bridging the gap between design and development and also looking forward to contributing to **Open Source Projects**.
 
-- 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression..
+- 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression.
 
 - 💬 Let's talk [8pluscreative@gmail.com](mailto:8pluscreative@gmail.com")
 
