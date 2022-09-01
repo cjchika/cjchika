@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Chijioke Chika</h1>
-<h3 align="center">Software Developer.</h3>
+<h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
 - 📒 **React Enthusiast**, learning **daily** and building side projects.
