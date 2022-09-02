@@ -4,7 +4,7 @@
 
 - 📒 **React Enthusiast**, learning **daily** and building side projects.
 
-- 🤝🏻 Passionate about bridging the gap between design and development and also looking forward to contributing to **Open Source Projects**.
+- 🤝🏻 Passionate about bridging the gap between design and development, also looking forward to contributing to **Open Source Projects**.
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression.
 
