@@ -12,7 +12,7 @@
 
 - 💯 Interests: **Open Source, Blockchain Technology, Linux and Software Engineering.**
 
-- ⚡ Fun fact: Let's Figure it!
+- ⚡ Fun fact: print('Hello world')
 
 ---
 
