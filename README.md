@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
-- 📒 **React Enthusiast**, learning **daily** and building side projects.
+- 📒 **React Enthusiast | Peeping into low code no code**, learning **daily** and building side projects.
 
 - 🤝🏻 Passionate about bridging the gap between design and development, also looking forward to contributing to **Open Source Projects**.
 
