@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
-- 📒 **React Enthusiast | Voyaging into Full-Stack with MERN | Peeping into low code no code**. Steady, **building!**.
+- 📒 **React Enthusiast | Voyaging into Full-Stack with MERN | Peeping into low code no code**. Steady, **building!!!**.
 
-- 🤝🏻 Passionate about bridging the gap between design and development, also looking forward to contributing to **Open Source Projects**.
+- 🤝🏻 Passionate about bridging the gap between design and development, looking forward to contributing to **Open Source Projects**.
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression.
 
