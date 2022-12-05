@@ -1,5 +1,5 @@
 <h1 align="center">Hey boss 👋, I'm Chijioke Chika</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
 - 📒 **React Enthusiast | Voyaging into Full-Stack with MERN | Peeping into low code no code**. Steady, **building!!!**.
