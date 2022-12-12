@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-<h3 align="left"> Let's Connect:</h3>
+<h3 align="left"> Let's Connect here:</h3>
 <a href="https://twitter.com/cjchika_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="achieverhika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chikachijioke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@chikachijioke" height="30" width="40" /></a>
 </p>
