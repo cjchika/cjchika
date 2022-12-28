@@ -30,5 +30,14 @@
 <a href="terminal" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.npmjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <a href="https://www.redux.js.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjchika&show_icons=true" alt="cjchika" /></p>
+<a href="https://github.com/cjchika">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjchika&theme=nightowl&hide_langs_below=1" />
+</a>
+<a href="https://github.com/cjchika">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjchika&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Chika's github stats"/>
+</a>
+
+<div align="center">
+
+</div>
 
