@@ -8,7 +8,7 @@
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression.
 
-- 💬 Email [8pluscreative@gmail.com](mailto:8pluscreative@gmail.com")
+- 💬 Let's talk: <a href="https://www.linkedin.com/in/chikachijioke/">Here</a>
 
 - 💯 Interests: **Open Source, Blockchain Technology, Linux and Software Engineering.**
 
