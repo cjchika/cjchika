@@ -8,7 +8,7 @@
 
 - 🌎 Presently seeking frontend developer roles with a web development that will boost my career progression.
 
-- 💬 Let's talk: <a href="https://www.linkedin.com/in/chikachijioke/">Here</a>
+- 💬 Let's talk: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">Here</a>
 
 - 💯 Interests: **Open Source, Blockchain Technology, Linux and Software Engineering.**
 
