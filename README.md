@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
-- 📒 **Software Developer | Full-Stack Dev | MERN**.
+- 📒 **Software Developer | Full-Stack Web Dev | MERN**.
 
 - 🤝🏻 Passionate about bridging the gap between design and development, looking forward to contributing to **Open Source Projects**.
 
