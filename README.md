@@ -1,16 +1,16 @@
 <h1 align="center">Hey boss 👋, I'm Chijioke Chika</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cjchika0&label=Profile%20views&color=0e75b6&style=flat" alt="cjchika" /> </p>
 
 - 📒 **Software Developer | Front-end Developer Web & Mobile**.
 
 - 🤝🏻 Passionate about bridging the gap between design and development, looking forward to contributing to **Open Source Projects**.
 
-- 🌎 Presently seeking full-stack developer role that will boost my career progression.
+- 🌎 Presently seeking a full-stack developer role that will boost my career progression.
 
 - 💬 Let's connect on: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">LinkedIn</a>
 
-- 💯 Interests: **Open Source, Blockchain Technology, Linux and Software Engineering.**
+- 💯 Interests: **Open Source, Blockchain Technology, Linux, and Software Engineering.**
 
 - ⚡ Fun fact: ...in a bit.
 
