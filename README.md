@@ -6,7 +6,7 @@
 
 - 🤝🏻 Passionate about bridging the gap between design and development, looking forward to contributing to **Open Source Projects**.
 
-- 🌎 Presently seeking a full-stack developer role that will boost my career progression.
+- 🌎 Presently seeking a full-time developer role that will boost my career progression.
 
 - 💬 Let's connect on: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">LinkedIn</a>
 
