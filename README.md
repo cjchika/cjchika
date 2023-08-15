@@ -10,7 +10,7 @@
 
 - 💬 Let's connect on: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">LinkedIn</a>
 
-- 💯 Interests: **Open Source, Blockchain Technology, Linux, and Software Engineering.**
+- 💯 Interests: **Open Source, Design Patterns, Blockchain Technology, Linux, and Software Engineering.**
 
 - ⚡ Fun fact: ...in a bit.
 
