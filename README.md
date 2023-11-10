@@ -12,7 +12,7 @@
 
 - 💯 Interests: **Open Source, Design Patterns, Blockchain Technology, Linux, and Software Engineering.**
 
-- ⚡ Fun fact: ...in a bit. Ok, No :(.
+- ⚡ Fun fact: ...in a bit.
 
 ---
 
