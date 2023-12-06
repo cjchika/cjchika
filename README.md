@@ -8,7 +8,7 @@
 
 - 🌎 Presently seeking a full-time developer role that will boost my career progression.
 
-- 💬 Let's connect on: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">LinkedIn</a>
+- 💬 Let's connect on: <a href="https://www.linkedin.com/in/chikachijioke/" target="blank">LinkedIn</a> or <a href="https://www.twitter.com/cjchika_/" target="blank">X</a>
 
 - 💯 Interests: **Open Source, Design Patterns, Blockchain Technology, Linux, and Software Engineering.**
 
